@@ -1,14 +1,16 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title:  # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  If I \*had\* to describe myself in three words, they might be "I'm probably hungry" (this challenge was once posed to me in a college application and I think warrants this reponse). If I had to describe myself in more, I'd say: I'm a second year PhD candidate in the engineering and public policy department at Carnegie Mellon University. Though my time here has been filled with moments of intense self-scrutiny and uncertainty, it has also included some really beautiful moments during my classes and research. I really like what I'm doing here.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  More specifically, my current research project investigates service quality discrepancies of Uber and Lyft across racial groups. Generally, I'm interested in researching issues at the intersection of society and engineering, like consumer adoption of electric vehicles and understanding the impacts of the energy transition on historically marginalized communities. Luckily, I get to hear about these topics frequently during presentations to the [Vehicle Electrification Group (VEG)](https://www.cmu.edu/cit/veg/index.html), the research group run by my advisor, Dr. Jeremy Michalek, which I am a part of.
+  
+  But what else am I doing here besides classes and research? While in Pittsburgh, I've picked up rock climbing, coffee-shop hunting, and consumption of free food at school-sponsored events. I also spend a lot of time with my lovely fellow students.
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
