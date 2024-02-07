@@ -134,8 +134,8 @@ enableEmoji = true
     #url = "/talk/"
     #weight = 4
   [[menu.header]]
-    name = "Resumes"
-    title = "Resumes"
+    name = "Resumés"
+    title = "Resumés"
     url = "/collection/"
     weight = 5
   # [[menu.header]]
