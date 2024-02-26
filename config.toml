@@ -136,7 +136,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resumés"
     title = "Resumés"
-    url = "/collection/"
+    url = "/resumes/"
     weight = 5
   # [[menu.header]]
    # name = "Elements"
