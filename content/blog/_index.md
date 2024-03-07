@@ -1,16 +1,15 @@
 ---
-title: A Blog That Works
+title: My Thoughts
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  Here are some topics I've spent some time thinking about and were of significant enough interest to me that I took time out of the PhD life to write about them without being graded or paid to do so.
+author: "Anna Cobb"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
 show_button_links: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -32,7 +31,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Anna Cobb"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances

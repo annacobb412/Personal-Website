@@ -1,7 +1,7 @@
 ---
-title: "Hello there."
+title: "I'm Anna."
 subtitle: ""
-description: "You have reached the website of Anna Cobb! <br> I made this website to serve three purposes:<br> 1) to act as my own (mostly) custom-designed online portfolio for my thoughts and projects. <br> 2) to enlighten those who are interested in knowing more about me. <br> 3) to inform those who are interested in learning more about or doing the things I have done (a limited but growing list)."
+description: "Currently, I'm working on: <br> 1) Completing my PhD in Engineering and Public Policy <br> 2) Running the Pittsburgh half marathon <br> 3) Figuring out what in life is worth pursuing"
 images:
   - img/Anna-mountains.jpeg
 image_left: true
@@ -9,7 +9,7 @@ text_align_left: true
 show_social_links: false # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More About Me &rarr;"
+action_label: "Read More About 1) & 3) &rarr;"
 action_type: text # text, button
 type: home
 ---
