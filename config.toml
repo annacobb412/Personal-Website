@@ -32,8 +32,8 @@ enableEmoji = true
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  logo = "/home.svg"
+  mainSections = ["blog", "project", "resumes"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -119,25 +119,25 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Experiences"
-    title = "Experiences"
+    name = "Thoughts"
+    title = "Thoughts"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 3
-  [[menu.header]]
-    name = "Resources"
-    title = "Resources"
+    name = "Talks"
+    title = "Talks"
     url = "/talk/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Resumés"
     title = "Resumés"
     url = "/resumes/"
-    weight = 5
+    weight = 4
+  # [[menu.header]]
+    #name = "Resources"
+    #title = "Resources"
+    #url = "/project/"
+    #weight = 5
   # [[menu.header]]
    # name = "Elements"
    # title = "Element Page"
@@ -145,21 +145,21 @@ enableEmoji = true
    # weight = 6
     
   # Configure footer  
-  [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+  #[[menu.footer]]
+   # name = "License"
+    #title = "License"
+    #url = "/license/"
+    #weight = 1
+  #[[menu.footer]]
+   # name = "Contact"
+  #  title = "Contact form"
+   # url = "/contact/"
+  #  weight = 2
+  #[[menu.footer]]
+   # name = "Contributors"
+  #  title = "Contributors"
+   # url = "/contributors/"
+    #weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

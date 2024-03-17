@@ -1,7 +1,7 @@
 ---
 title: My Thoughts
 description: |
-  Here are some topics I've spent some time thinking about and were of significant enough interest to me that I took time out of the PhD life to write about them without being graded or paid to do so.
+  These are some topics I was interested in understanding more deeply; I've written up what I learned here! Also, due to page limits and word count restrictions, academic papers only let you be so wordy--here, I have fully let myself go to write every clause, interesting tidbit, and hedging word I desire.
 author: "Anna Cobb"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only

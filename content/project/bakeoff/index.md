@@ -1,32 +1,20 @@
 ---
-title: "Bakeoff"
-subtitle: "An R Package"
-excerpt: "This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the form front matter."
-date: 2019-07-01
-author: "Eric Anderson"
+title: "Using the Bridges 2 Supercomputer"
+subtitle: "Presentation originally given to the Vehicle Electrification Group (VEG)"
+excerpt: "I have had about as good an experience as one could have using supercomputing resources for the first time at the Pittsburgh Supercomputing Center. These slides explain getting started with Bridges 2."
+date: 2024-03-16
+author: "Anna Cobb"
 draft: false
 tags:
   - hugo-site
 categories:
-  - Theme Features
-  - R
-  - package
+  - High Performance Computing
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
----
-
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
+  name: slides
+  url: Bridges-2 Presentation.pdf
 ---
 
 ### Functional Form

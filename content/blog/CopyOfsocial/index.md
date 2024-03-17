@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT Use in Schools: What were (and are) the OpenAI people thinking?"
+title: "ChatGPT Use in Schools: What were (and are) the people at OpenAI thinking?"
 subtitle: "Was there ever a plan for how to prevent cheating or detect AI use for completing homework assignments? Should there be?"
 excerpt: " "
 date: 2024-03-06
@@ -11,24 +11,52 @@ categories:
 - Education
 ---
 
-Since ChatGPT reached people who were not AI experts or superfans--the release date was November 30, 2022--I've been wondering about its use in schools. I am very far from the only person to be thinking about this, but the topic of using technology to cheat has been on my mind since coming across the website [Chegg.com](https://www.chegg.com/) in my undergrad.
+As someone who has completed a Bachelor's degree in mechanical engineering and is now two years into a PhD program, I feel like I've spent a decent amount of time in school. And I still don't know exactly where I stand on the (correct or incorrect) answers to homework questions being available online. In conversations with a friend of mine who has also been through an undergraduate engineering program, we have talked about the value of being able to find a starting point for a homework problem online (either via [Chegg.com](https://www.chegg.com/) or nowadays, via ChatGPT). And there certainly is some amount of learning that takes place when you find an entire problem worked out correctly that you had no idea how to do. However, I feel that how much you get out of that scenario ultimately comes down to your alternative behavior. If you couldn't find the answer online, would you have:
 
-There are three questions I'm looking to answer or provide some insight on:
-+ Did or does OpenAI have any sort of plan for regulating the use of ChatGPT to complete homework assignments or exams? Have any of the other companies (e.g., Google, Microsoft, ?) working on large language models (LLMs) thought about this?
+a) given up on the question, not submitted an answer, and not bothered to look at the answer key when/if it was posted
+
+b) texted a friend and either copied their answer or had them explain it to you
+
+c) gone to office hours, worked with a TA, and really come to understand the problem
+
+Of course, if the answer is c), having worked-out solutions available online is probably not helping education. If the answer is a) or possibly b), maybe the answer being online is not so much worse than what students are doing already. In my own personal experience, the answer depended on how much time there was before the assignment was due and how many other things I had to do.
+
+Since ChatGPT reached people who were not AI experts or superfans--the release date was November 30, 2022--I've been wondering about its use in schools. I am very far from the only person to be thinking about this, but the topic of using technology to cheat has been on my mind since coming across Chegg in my undergrad. (It should be noted that human experts produce the answers on Chegg, not AI models.)
+
+There are three questions I'm looking to answer or at least obtain some insight on:
++ Did or does OpenAI have any sort of plan for regulating the use of ChatGPT to complete homework assignments or exams? Have any of the other companies working on large language models (Google, Microsoft, etc.) thought about this?
 + Is ChatGPT just a calculator for writing and thus something teachers should be redesigning their assignments to accomodate?
-+ What are the limits of ChatGPT for answering homework problems?
++ What are the limits of ChatGPT for answering homework problems? Are there ways to design questions such that ChatGPT's answers are either unhelpful or incorrect?
 
-Chegg: which came first 
+#### Question 1
 
-Before getting to ChatGPT, I'll start with Chegg. For those who don't know, Chegg is an "edtech" company which states its mission as "to help every student achieve their best, in school and beyond." To do this, the company offers tools on their website including reduced-price textbooks, a citation generator, a grammar checker, and a "math solver". Oh, and for a small subscription fee ($14.95/month), Chegg Study allows students to copy their homework questions into a search bar and get a fully worked-out solution written by one of the many STEM experts working at Chegg (in India). Relatedly, the math solver the company offers will give students three answers per day to simple math questions for free--unlimited solutions with work shown are available for \$9.95/month.
+As far as I can tell, no, OpenAI did not seem to have any real plans in place prior to their public release of ChatGPT. However, their response after its release and after initial criticism from educators has been, if not the most practical or impactful, very public. On January 30th, 2023 (seemingly OpenAI's first public acknowledgement of ChatGPT making academic integrity violations much easier to get away with and more common), the company released what they called an ["AI Text Classifier"](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text) which could be used to detect the likelihood that a piece of text was generated by AI models created from an unnamed number of different companies. However, the language on the company's own website seriously hedged the ability of the classifier to do its job, with the blog post announcement featuring the sentence "Our classifier is not fully reliable" in bold and a large limitations section. Now, in 2024, there is a statement at the top of announcement which says that as of July 20, 2023, the tool has been shelved (for now) due to its low accuracy. It's worth noting that despite OpenAI's difficulty in creating a reliable detector, the detection of AI generated text has become its own market, with products such as [GPTZero](https://gptzero.me/?via=ting&gad_source=1) popping up and claiming significantly higher accuracy rates than OpenAI's initial classifier. Of course, with a market for AI detection, there is also a market for "humanizing" text so that it gets passed AI detectors! [Undetectable AI](https://undetectable.ai/?gad_source=1&gclid=Cj0KCQjwqdqvBhCPARIsANrmZhOopEfIUdLcMxNTf-F4I7EvoeECYNHvPtkurDcbHsvipM4_Xp3e1UYaAimXEALw_wcB), one of the companies offering such a tool, performs their humanizing with their own "AI text humanizer". This just feels too ironic and like there is no possible good reason for using this product for it to be real.
+
+Despite OpenAI not seeming to anticipate this issue, I was curious if any other companies had. According to [this Forbes article](https://www.forbes.com/sites/digital-assets/2023/12/19/top-ai-chatbots-in-2024-choosing-the-ideal-bot-for-your-business/?sh=7b6f96cd41c2) from December 2023, the companies whose chatbots have made it through the first year or two of competition and still present challenges to OpenAI are (formatting is company name - chatbot name):
+
+1. Microsoft - Bing Chat (note that Microsoft and OpenAI have [significant financial ties](https://www.ft.com/content/458b162d-c97a-4464-8afc-72d65afb28ed) and that [Bing Chat currently uses GPT-4 under the hood](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4))
+2. Google - Google Bard
+3. Anthropic - Claude AI
+4. OORT - OORT AI
+
+Beginning with Bing Chat: The only statements I could find specifically from Microsoft about the use of AI for school assignments was on their [Microsoft 365 Life Hacks blog](https://www.microsoft.com/en-us/microsoft-365-life-hacks/writing/is-it-ok-to-use-ai-on-school-assignments). There were no statements specific to the Bing Chat assistant or even any mentions of ChatGPT; the information they provide is largely generic statements about when using AI models for school assignments can be helpful and when it becomes cheating. However, I did find some interesting [reddit commentary](https://www.reddit.com/r/OpenAI/comments/11osrq2/bing_ai_getting_strict_on_cheating_multiple/) about how Bing Chat makes it more time-consuming and difficult (relative to ChatGPT), though not impossible, to cheat. 
+
+~ the rest of this answer is currently being drafted ~
+
+\*Note: I would like to state that my primary source for determining if people at OpenAI were anticipating academic integrity violations as a problem with releasing ChatGPT to the public has primarily been the company's blog posts. I would love to look for more subtle evidence in the future, like interviews with employees at OpenAI, but as of right now, I have not had time to do so.
+
+#### Question 2
+~ currently being drafted ~
+
+#### Question 3
+~ currently being drafted ~
+
+#### A Brief Segment on Chegg
+I also wanted to write up a little bit about Chegg, what I think was the largest source of cheating during my undergraduate years. For those who don't know, Chegg is an "edtech" company (Duolingo and Quizlet also fall under this classification) which states its mission as "to help every student achieve their best, in school and beyond." To do this, the company offers tools on their website including reduced-price textbooks, a citation generator, a grammar checker, and a "math solver". Oh, and for a small subscription fee ($14.95/month), Chegg Study allows students to copy their homework questions into a search bar and get a fully worked-out solution written by one of the many STEM experts working at Chegg (in India). Relatedly, the math solver the company offers will give students three answers per day to simple math questions for free--unlimited solutions with work shown are available for \$9.95/month.
 
 While I don't have any experience with the math solver, I will say that Chegg was used heavily by students in my undergraduate cohort at Georgia Tech. And I'd be lying if I didn't say that after staring at a problem I didn't understand for some amount of time (the amount being dependent on how much work I had that week or how much I cared about the subject), I didn't google my problem word-for-word and cross my fingers that one of the Chegg expert answers had been leaked for those without a subscription. And--there's no way to say this without sounding like a jerk--I'm one of the most academicallly honest people I know.
 
 Anyway, Chegg Study has been around since 2016, but it really took off during the COVID-19 pandemic (as can be seen by tracing the company's [stock price](https://www.google.com/finance/quote/CHGG:NYSE?sa=X&ved=2ahUKEwi7xYqsu-CEAxV2OUQIHUu9DhkQ3ecFegQIIRAX) over the last 5 years). I'd also like to note here that as pressure continues to build for students to clear increasingly high bars at increasingly high speeds, I'd expect the demand for Chegg to correspondingly increase. Though I haven't taken any classes in anthropology or neuroscience, my experience gives me no reason to believe my generation is any smarter than my parents'. Thus, if asked to achieve more in the same amount of time, other tools besides the human brain are sought out.
 
 Chegg has taken a few steps to mitigate cheating on the platform, but I personally find them ridiculously weak, although that makes sense given how they make money. As this [Forbes article](https://www.forbes.com/sites/susanadams/2021/01/28/this-12-billion-company-is-getting-rich-off-students-cheating-their-way-through-covid/?sh=5b7dae77363f) sums up very nicely, Chegg Study is one of the first instances of technology making it seamless (or at least cheap) for students like myself to cheat.
-
-ChatGPT:
-
-Now onto ChatGPT. So I'll start by answering the first question I was curious about: did OpenAI have any sort of plan for helping teachers control its use for cheating? Was it a thought that entered their minds before they made the product publicly available?
 
