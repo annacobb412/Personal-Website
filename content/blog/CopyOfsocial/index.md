@@ -4,7 +4,7 @@ subtitle: "Was there ever a plan for how to prevent cheating or detect AI use fo
 excerpt: " "
 date: 2024-03-06
 author: "Anna Cobb"
-draft: true
+draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
