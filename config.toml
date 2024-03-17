@@ -1,4 +1,4 @@
-baseURL = "https://annacobb.netlify.app/"
+baseURL = "https://annacobb.rbind.io/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Anna Cobb"
