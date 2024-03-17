@@ -1,7 +1,7 @@
 ---
 title:
 description: |
-  Below is both my standard professional resumé, as well as my failure resumé. I think I first learned about the idea of a "CV of failure" from an interview with Lauren Eskreis-Winkler, a psychologist at Northwestern, in an episode of [Hidden Brain](https://hiddenbrain.org/podcast/learning-from-your-mistakes/). For me, I think it resonated because I'd spent way too much time the year before reading the insanely impressive profiles of current graduate students at the graduate programs I was interested in. (If you have a hard time not comparing yourself to others, applying to grad schools can suck). So I made my failure resumé with the idea of adding a little human-ness to the millions of digital CVs out there.    
+  Below is both my standard professional resumé, as well as my failure resumé. I think I first learned about the idea of a "CV of failure" from an interview with Lauren Eskreis-Winkler, a psychologist at Northwestern, in an episode of [Hidden Brain](https://hiddenbrain.org/podcast/learning-from-your-mistakes/). For me, it resonated because I'd spent way too much time the year before reading the insanely impressive profiles of current graduate students at the graduate programs I was interested in. So I made my failure resumé with the idea of adding a little human-ness to the millions of digital CVs out there.    
   <br>
   [Professional Resumé](Anna_Cobb_resume.pdf)  
   [Failure Resumé](failure_resume.pdf)  
