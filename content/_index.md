@@ -1,7 +1,13 @@
 ---
 title: "I'm Anna."
 subtitle: ""
-description: "Currently, I'm working on: <br> 1) Completing my PhD in Engineering and Public Policy <br> 2) Running the Pittsburgh half marathon <br> 3) Figuring out what in life is worth pursuing"
+description: "Currently, I'm working on: <br>
+- Figuring out what in life is worth pursuing <br>
+- Completing my PhD in Engineering and Public Policy <br>
+- Running a full marathon <br>
+- Learning Italian <br>
+- Publishing an academic paper <br>
+- ~~Running the Pittsburgh half marathon~~ [05/05/24]"
 images:
   - img/Anna-mountains.jpeg
 image_left: true
