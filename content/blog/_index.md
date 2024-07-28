@@ -1,7 +1,7 @@
 ---
 title: My Thoughts
 description: |
-  These are some topics I was interested in understanding more deeply; I've written up what I learned here! Also, due to page limits and word count restrictions, academic papers only let you be so wordy--here, I have fully let myself go to write every clause, interesting tidbit, and hedging word I desire.
+  Here, I'm writing about the stuff I've taken an interest in, as well as the experiences I've had that felt really meaningful to me. Also, due to page limits and word count restrictions, academic papers only let you be so wordy--here, I have fully let myself go to write every clause, interesting tidbit, and hedging word I desire.
 author: "Anna Cobb"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
