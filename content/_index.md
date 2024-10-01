@@ -6,7 +6,7 @@ description: "Currently, I'm working on: <br>
 - Completing my PhD in Engineering and Public Policy <br>
 - Running a full marathon <br>
 - Learning Italian <br>
-- ~~Publishing an academic paper~~ [10/01/24] (!!) <br>
+- ~~Publishing an academic paper~~ [10==09/30/24] (!!) <br>
 - ~~Running the Pittsburgh half marathon~~ [05/05/24]"
 images:
   - img/Anna-mountains.jpeg
