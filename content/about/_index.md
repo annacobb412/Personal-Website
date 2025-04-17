@@ -4,7 +4,6 @@ description: |
   Anna described in a nutshell
 show_header: false
 sidebar_left: false
-# Keep this! Do not edit.
 cascade:
   headless: true
 ---
