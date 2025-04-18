@@ -1,7 +1,7 @@
 ---
 title: Talks
 description: |
-  Informal instructional talks I've given on different tools
+  Informal instructional talks I've given on different tools. And some research!
 author: "Anna Cobb"
 show_post_thumbnail: true
 show_author_byline: true

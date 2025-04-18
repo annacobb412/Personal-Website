@@ -4,10 +4,7 @@ subtitle: ""
 description: "Currently, I'm working on: <br>
 - Figuring out what in life is worth pursuing <br>
 - Completing my PhD in Engineering and Public Policy <br>
-- Running a full marathon <br>
-- Learning Italian <br>
-- ~~Publishing an academic paper~~ [09/30/24] (!!) <br>
-- ~~Running the Pittsburgh half marathon~~ [05/05/24]"
+- Learning Italian <br>"
 images:
   - img/Anna-mountains.jpeg
 image_left: true
