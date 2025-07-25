@@ -1,17 +1,19 @@
 ---
 title: "I'm Anna."
-subtitle: ''
-description: "Currently, I'm working on: <br> - Figuring out what in life is worth
-  pursuing <br> - Completing my PhD in Engineering and Public Policy <br> - Learning
-  Italian <br>"
-images: "img/Anna-mountains.jpeg"
+subtitle: ""
+description: "Currently, I'm working on: <br>
+- Figuring out what in life is worth pursuing <br>
+- Completing my PhD in Engineering and Public Policy <br>
+- Learning Italian <br>"
+images:
+  - img/Anna-mountains.jpeg
 image_left: true
 text_align_left: true
-show_social_links: true
+show_social_links: false # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: Read More About Me &rarr;
-action_type: text
+action_label: "Read More About Me &rarr;"
+action_type: text # text, button
 type: home
 ---
 
