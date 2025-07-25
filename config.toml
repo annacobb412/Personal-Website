@@ -94,9 +94,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/annacobb412/"
   [[params.social]]
-      icon      = "goodreads" # icon name without the 'fa-'
+      icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://www.goodreads.com/user/show/55693875-anna"
+      url       = "https://twitter.com/annamcobb412"
 
 [taxonomies]
   category = "categories"
