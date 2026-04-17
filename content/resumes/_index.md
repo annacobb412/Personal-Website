@@ -7,6 +7,7 @@ description: |
   [Failure Resumé](failure_resume.pdf)  
   <br>
   A few other examples that I like: [Bessemer Venture Partners](https://www.bvp.com/anti-portfolio) (high stakes mistakes) & [Kat Huang](https://www.katmh.com/fail).
+    
   
 show_header: true
 sidebar_left: false

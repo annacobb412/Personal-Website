@@ -4,9 +4,9 @@ subtitle: ""
 description: "Currently, I'm working on: <br>
 - Learning Italian <br>
 - Figuring out what in life is worth pursuing <br>
-- Any given route (bouldering or top rope!) at Ascend <br>
+- ~~Any given route (bouldering or top rope!) at Ascend~~ (my ACL did not handle this well) <br>
 - Completing my PhD in Engineering and Public Policy <br>
-- Trying to read more again:) <br>"
+- Trying to read as much as I did in middle school <br>"
 images:
   - img/Anna-mountains.jpeg
 image_left: true
