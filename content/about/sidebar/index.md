@@ -1,8 +1,8 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Anna Cobb"
-role: "curious, confused, and trying to understand"
-avatar_shape: square # circle, square, rounded, leave blank to exclude
+role: "PhD Student Researcher"
+avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: # specify social accounts in site config
 audio_link_label: # leave blank to exclude
 # link_list_label: "Interests" # bookmarks, elsewhere, etc.
