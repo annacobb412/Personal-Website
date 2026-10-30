@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
 author: "Anna Cobb"
-role: "Postdoctoral Researcher"
+role: ""Doubt is not a pleasant condition, but certainty is absurd" - Voltaire. "
 avatar_shape: circle # circle, square, rounded, leave blank to exclude
 show_social_links: # specify social accounts in site config
 audio_link_label: # leave blank to exclude
@@ -14,4 +14,5 @@ audio_link_label: # leave blank to exclude
 # - name: People
 #   url: https://en.wikipedia.org/wiki/People
 ---
+
 \*\* index doesn't contain a body, just front matter above. See about/list.html in the layouts folder \*\*
